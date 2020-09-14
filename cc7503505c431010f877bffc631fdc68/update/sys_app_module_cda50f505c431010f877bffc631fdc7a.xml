@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ktesttab1">85a50f505c431010f877bffc631fdc77</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ktesttab1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_fxi_ktestauthor1_ktesttab1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_fxi_ktestauthor1.ktesttab1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-08-31 19:19:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cda50f505c431010f877bffc631fdc7a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ktesttab12s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ktestauthor1" source="x_fxi_ktestauthor1">cc7503505c431010f877bffc631fdc68</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ktestauthor1">cc7503505c431010f877bffc631fdc68</sys_scope>
+        <sys_update_name>sys_app_module_cda50f505c431010f877bffc631fdc7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-14 03:46:44</sys_updated_on>
+        <timeline_page/>
+        <title>ktesttab12s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ktestauthor1">cc7503505c431010f877bffc631fdc68</claim_owner_scope>
+        <claim_timestamp>1748ab8fc710000001</claim_timestamp>
+        <metadata_update_name>sys_app_module_cda50f505c431010f877bffc631fdc7a</metadata_update_name>
+        <previous_claim_app_version>1.0.4</previous_claim_app_version>
+        <previous_claim_name>ktestauthor1</previous_claim_name>
+        <previous_claim_scope>cc7503505c431010f877bffc631fdc68</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-14 03:46:53</sys_created_on>
+        <sys_id>155673a4539710109d3addeeff7b12df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-14 03:46:53</sys_updated_on>
+    </sys_claim>
+</record_update>
